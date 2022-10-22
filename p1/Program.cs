@@ -3,6 +3,6 @@ Console.WriteLine("Hello, World!");
 string s = "ala ma kota";
 
 s= s.ToUpper();
- //ok1
+ //ok2
 
 System.Console.WriteLine(s);
